@@ -3,3 +3,10 @@
 select * 
 from employees 
 where managerId is null
+
+
+
+Hasil :
+id    managerId    name    
+-----------------------
+1                  John    
